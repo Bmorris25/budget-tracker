@@ -1,0 +1,7 @@
+body {
+    background: url("./assets/budget-bg.jpg"); /* Change background Image */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
